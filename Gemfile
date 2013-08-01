@@ -3,9 +3,9 @@ ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.0.0'
+gem 'pg'
 
 group :development, :test do
-  gem 'pg'
   gem 'rspec-rails', '2.13.1'
 end
 
