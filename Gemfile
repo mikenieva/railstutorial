@@ -13,11 +13,15 @@ group :development, :test do
   gem 'spork-rails', github: 'sporkrb/spork-rails'
   gem 'guard-spork', '1.5.0'
   gem 'childprocess', '0.3.6'
+  gem 'guard'
+  gem 'guard-livereload'  # Livereload - Actualización en tiempo real / No soporta atomic_saves en ST3
+  gem 'rack-livereload'   # Rack Livereload - Complemento, inclusión de livereload.js en un socket
 end
 
 group :test do
   gem 'selenium-webdriver', '2.0.0'
   gem 'capybara', '2.1.0'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 gem 'sass-rails', '4.0.0'
