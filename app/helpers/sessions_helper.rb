@@ -23,6 +23,10 @@ module SessionsHelper
 		@current_user ||= User.find_by(remember_token: remember_token)
 	end
 
+	def current_user?(user)
+		user == current_user
+	end
+
 	def sign_out
 		# Cambiamos el token dle usuario en la Base de Datos
 		current_user.update_attribute(:remember_token, User.encrypt(User.new_remember_token))
@@ -31,4 +35,14 @@ module SessionsHelper
 		# Establecemos el usuario recurrente a nil
 		self.current_user = nil
 	end
+
+	def redirect_back_or(default)
+		redirect_to(session[:return_to] || default)
+		session.delete(:return_to)
+	end
+
+	def store_location
+		session[:return_to] = request.url if request.get?
+	end
+
 end
