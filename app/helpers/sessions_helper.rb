@@ -27,6 +27,13 @@ module SessionsHelper
 		user == current_user
 	end
 
+	def signed_in_user
+		unless signed_in?
+			store_location
+			redirect_to signin_url, notice: "Please sign in."
+		end
+	end
+
 	def sign_out
 		# Cambiamos el token dle usuario en la Base de Datos
 		current_user.update_attribute(:remember_token, User.encrypt(User.new_remember_token))
