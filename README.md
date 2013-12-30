@@ -24,16 +24,20 @@ Porque, al igual que Django, cuenta con absolutamente todas las buenas práctica
 
 Claro, toma tiempo entender todo, personalmente lo veo, pero es parte del juego. Crear aplicaciones para un mundo mejor conectado y empático con la tecnología.
 
-Por eso, Googlea mucho, anota lo que no entiendas, concéntrate y mentalízate en que es un maratón, no un "sprint".
+Te invito totalmente a que hagas el tutorial y aprendas web con mentalidad profesional.
 
-También conoce Ruby, te dejo un tweet donde vinculo un artículo épico con consejos excelentes para iniciar en este lenguaje: 
+Googlea mucho, anota lo que no entiendas, concéntrate y mentalízate en que es un maratón, no un "sprint".
+
+Otro tip, Ruby, te dejo un tweet donde vinculo un artículo épico con consejos excelentes para iniciar en este lenguaje: 
 <br />
 <br />
 <blockquote class="twitter-tweet" lang="es"><p>Este 2014, con estos consejos, aprende Ruby y sé épico // The path of the Padawan <a href="http://t.co/a8Nb1VoADR">http://t.co/a8Nb1VoADR</a> via <a href="https://twitter.com/Crowdint">@crowdint</a></p>&mdash; Miguel Nieva (@mikenieva) <a href="https://twitter.com/mikenieva/statuses/417024234443923456" target="_blank">diciembre 28, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br />
 <br />
-Trabaja poco a poco el <a href="http://ruby.railstutorial.org/book/ruby-on-rails-tutorial" target="_blank">tutorial</a>, sigue a <a href="http://twitter.com/mhartl" target="_blank">Michael Hartl</a>, ve con todo y termínalo también.
+Trabaja a tu ritmo el <a href="http://ruby.railstutorial.org/book/ruby-on-rails-tutorial" target="_blank">tutorial</a>, sigue a <a href="http://twitter.com/mhartl" target="_blank">Michael Hartl</a>, ve con todo y termínalo también.
+
+De ahí, tendrás mejores bases para trabajar en tus proyectos profesionales, poco a poco.
 
 ¡Suerte!
 
