@@ -17,7 +17,7 @@ Aunque, siendo sincero, no coincido del todo.
 
 Es difícil, lo sé, los cambios asustan. Pero no es imposible.
 
-###¿Por qué recomendaría Ruby On Rails?
+# ¿Por qué recomendaría Ruby On Rails?
 
 Porque, al igual que Django, cuenta con absolutamente todas las buenas prácticas, comunidad, tecnología moderna y profesionalismo que un framework debe tener.
 
@@ -25,7 +25,7 @@ Claro, toma tiempo entender todo (es un monstruo hecho código) pero es parte de
 
 Nuestra meta al final es <b>crear aplicaciones para un mundo mejor conectado y empático con la tecnología.</b> Por eso hay que buscar crecer con todo lo nuevo.
 
-###Excelente, me encanta la propuesta. ¿Qué sigue?
+# Excelente, me encanta la propuesta. ¿Qué sigue?
 
 Te invito totalmente a que hagas el tutorial de Michael Hartl y le des una oportunidad.
 
@@ -48,7 +48,7 @@ De ahí, tendrás mejores bases para trabajar en tus proyectos profesionales, po
 
 Te deseo lo mejor y mucho éxito.
 
-###Fuentes
+# Fuentes
 
 <ul>
 <li>Tutorial de <a href="http://ruby.railstutorial.org/book/ruby-on-rails-tutorial" target="_blank">Ruby On Rails Tutorial</a>, libro de Michael Hartl (<a href="http://twitter.com/mhartl" target="_blank">@mhartl</a>).</li>
